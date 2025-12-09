@@ -1,3 +1,4 @@
+package Sorting;
 class Solution {
     void segregateEvenOdd(int arr[]) {
         int n = arr.length;
