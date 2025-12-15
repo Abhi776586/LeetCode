@@ -34,4 +34,6 @@ Java Software Engineer preparing for SDE-1 roles.
 
 ## Links
 - GitHub: https://github.com/your-id
-- LinkedIn: https://www.linkedin.com/in/abhishek-kumar-543344194?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFc5q97LlQ0SxwTX5wNMiSg%3D%3D
+- LinkedIn: https://www.linkedin.com/in/abhishek-kumar-543344194/
+
+
