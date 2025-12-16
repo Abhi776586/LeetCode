@@ -39,3 +39,8 @@ Java Software Engineer preparing for SDE-1 roles.
 - GFG: https://www.geeksforgeeks.org/profile/asuszenbifj6?tab=activity
 
 
+## Notes
+- “Moore’s Voting Algorithm works by canceling different elements pairwise.
+   Because the majority element appears more than n/2 times, it cannot be eliminated completely, so it remains as the final candidate.”
+
+
