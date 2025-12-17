@@ -33,7 +33,7 @@ LeetCode/
 Java Software Engineer preparing for SDE-1 roles.
 
 ## Links
-- GitHub: https://github.com/your-id
+- GitHub: https://github.com/Abhi776586/LeetCode
 - LinkedIn: https://www.linkedin.com/in/abhishek-kumar-543344194/
 - LeetCode: https://leetcode.com/u/abhishekSDE/
 - GFG: https://www.geeksforgeeks.org/profile/asuszenbifj6?tab=activity
