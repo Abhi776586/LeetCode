@@ -46,10 +46,10 @@ Java Software Engineer preparing for SDE-1 roles.
 - Subarray = n *(n +1)/2
 
 ## 𝗔𝗿𝗿𝗮𝘆𝘀 / 𝗛𝗮𝘀𝗵𝗶𝗻𝗴 / 𝗧𝘄𝗼 𝗣𝗼𝗶𝗻𝘁𝗲𝗿𝘀
-•⁠  ⁠Two Sum – https://lnkd.in/g4fCe-r4
-•⁠  ⁠Container With Most Water – https://lnkd.in/g6yMv-x4
-•⁠  ⁠Longest Subarray with Sum K – https://lnkd.in/gNbZNMDA
-•⁠  ⁠3Sum Closest – https://lnkd.in/gmGJU64P
+-  ⁠Two Sum – https://lnkd.in/g4fCe-r4
+- ⁠  ⁠Container With Most Water – https://lnkd.in/g6yMv-x4
+- ⁠  ⁠Longest Subarray with Sum K – https://lnkd.in/gNbZNMDA
+- ⁠  ⁠3Sum Closest – https://lnkd.in/gmGJU64P
 
 ## String
 •⁠  ⁠Longest Substring Without Repeating Characters – https://lnkd.in/g67dVzAP
