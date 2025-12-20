@@ -88,3 +88,31 @@ Java Software Engineer preparing for SDE-1 roles.
 - ⁠  ⁠Rotting Oranges – https://lnkd.in/gWbgsNUg
 
 
+
+## 𝐒𝐭𝐫𝐢𝐧𝐠 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬: https://lnkd.in/gx4wpAci
+
+## 𝐑𝐞𝐜𝐮𝐫𝐬𝐢𝐨𝐧 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬: https://lnkd.in/geGf64sY
+
+## 𝐒𝐮𝐛𝐬𝐭𝐫𝐢𝐧𝐠 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬: https://lnkd.in/gbAyFNkE
+
+## 𝐓𝐰𝐨 𝐏𝐨𝐢𝐧𝐭𝐞𝐫𝐬 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬: https://lnkd.in/gejA6CZe
+
+## 𝐁𝐢𝐧𝐚𝐫𝐲 𝐒𝐞𝐚𝐫𝐜𝐡 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬: https://lnkd.in/gp5hJMNU
+
+## 𝐁𝐚𝐜𝐤𝐭𝐫𝐚𝐜𝐤𝐢𝐧𝐠 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬: https://lnkd.in/gnQPWfBB
+
+## 𝐓𝐫𝐞𝐞 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬: https://lnkd.in/gqwEBHmh
+
+## 𝐌𝐨𝐧𝐨𝐭𝐨𝐧𝐢𝐜 𝐒𝐭𝐚𝐜𝐤 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬: https://lnkd.in/gjCfhDwb
+
+## 𝐁𝐢𝐭 𝐌𝐚𝐧𝐢𝐩𝐮𝐥𝐚𝐭𝐢𝐨𝐧: https://lnkd.in/gkRgWebW
+
+## 𝐆𝐫𝐚𝐩𝐡: https://lnkd.in/gdBfjNQS
+
+## 𝐃𝐲𝐧𝐚𝐦𝐢𝐜 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐈: https://lnkd.in/gmH-fnER
+
+## 𝐃𝐲𝐧𝐚𝐦𝐢𝐜 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐈𝐈: https://lnkd.in/gfiZN6Mz
+
+## 𝐒𝐥𝐢𝐝𝐢𝐧𝐠 𝐖𝐢𝐧𝐝𝐨𝐰: https://lnkd.in/gJXxhYae
+
+
