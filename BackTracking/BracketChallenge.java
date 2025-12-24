@@ -3,21 +3,12 @@ import java.util.*;
 
 class Solution {
 
-    public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
-        
-        Scanner sc = new Scanner(System.in);
-        int N = sc.nextInt();
-        int M = sc.nextInt();
-        
+public List<String> generateBrackets(int n, int m) {
         List<String> result = new ArrayList<>();
         Deque<Character> stack = new ArrayDeque<>();
-        
-        solve("" , N , N , M , M , stack , result);
-        for(String s : result){
-            System.out.println(s);
-        }
-        sc.close();
+
+        solve("", n, n, m, m, stack, result);
+        return result;
     }
     
     static void solve(String curr , int openParen , int closeParen , int openBrace , int closeBrace , Deque<Character> stack , List<String> result){
