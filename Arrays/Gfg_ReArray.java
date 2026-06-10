@@ -1,4 +1,4 @@
-package Arrays;
+
 import java.util.Arrays;
 class Solution {
     public void rearrange(int arr[]) {
